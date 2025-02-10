@@ -8,6 +8,6 @@ package Dal;
  *
  * @author CE180220_Trần Minh Khánh
  */
-public class CustomersDAO extends DBContext {
+public class CustomersDAO extends DBContext{
     
 }
